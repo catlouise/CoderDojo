@@ -1,0 +1,19 @@
+#circle {
+	border-radius: 50%;
+	background-color : purple;
+	width: 75%;
+	height: 75%;
+	position: relative;
+}
+#ball {
+	border-radius: 50%;
+	background-color: black;
+	width: 25%;
+	height: 40%;
+	position: relative;
+}
+#answers {
+	position: absolute;
+	margin-top: 40%;
+	
+}

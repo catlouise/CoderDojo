@@ -1,0 +1,19 @@
+============
+Magic 8 Ball 
+============
+~~~~~~~~~~~~
+---------
+Overview
+---------
+This is a short project that can be completed in one CoderDojo session by ninjas who are already familiar with basic HTML, CSS and JavaScript.
+~~~~~~~~~~~~
+---------
+Concepts
+---------
+* Divs
+* Creating circles with CSS
+* JavaScript functions
+* Arrays in JavaScript 
+* Generating randomness in JavaScript
+
+~~~~~~~~~~~~~
